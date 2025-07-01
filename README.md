@@ -22,7 +22,11 @@ This repo helps me stay **accountable**, **organized**, and **motivated** while 
 
 frontend-bootcamp/
 ├── roadmap/ → Weekly progress tracker (3-month markdown)
+
 ├── projects/ → React & frontend mini projects
+
 ├── dsa/ → Notes + code for LeetCode-style problems
+
 ├── notes/ → JS, React, Redux, HTML/CSS summaries
+
 └── README.md → You're here!
