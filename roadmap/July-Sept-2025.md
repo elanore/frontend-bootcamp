@@ -57,17 +57,14 @@ Welcome to my 3-month self-guided bootcamp where I’m mastering frontend skills
 
 ## 📘 DSA Practice Count
 
-| Topic         | Problems Solved |
-| ------------- | --------------- |
-| Arrays        | 5/10            |
-| Strings       | 3/10            |
-| Hashmaps      | 2/10            |
-| Stack/Queue   | 0/8             |
-| Binary Search | 0/8             |
-| Total         | 10/50           |
+| Topic         
+| Arrays        
+| Strings       
+| Hashmaps      
+| Stack/Queue  
+| Binary Search 
 
 ---
-
 ## 🛠 Tech Stack for Projects
 
 - JavaScript (ES6+)
