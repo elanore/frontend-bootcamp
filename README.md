@@ -1,6 +1,6 @@
 # 🎓 Frontend Bootcamp – Shiny's Learning Journey
 
-Welcome to my **Frontend Bootcamp** – a 3-month focused journey in 2025 to sharpen my skills in:
+Welcome to my **Frontend Bootcamp** –
 
 - 🧠 JavaScript (ES6+)
 - ⚛️ React & Redux
@@ -13,7 +13,7 @@ Welcome to my **Frontend Bootcamp** – a 3-month focused journey in 2025 to sha
 ## 🗂 Repo Structure
 
 frontend-bootcamp/
-├── roadmap/ → Weekly progress tracker (3-month markdown)
+├── roadmap/ → Weekly progress tracker 
 
 ├── projects/ → React & frontend mini projects
 
