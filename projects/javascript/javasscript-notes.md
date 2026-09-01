@@ -39,7 +39,7 @@ const is immutable
 also const job ; is not possible - miising initialiser in const declaration - means we have to declare const with value (const must be always initialised)
 var works similar to let except that var is function scope and let is block scope.
 
-Basic operator:
+Basic Operator:
 operator - helps you to combine values
 const currentAge = 2045-1985;
 console.log(currentAge);
