@@ -26,3 +26,20 @@ console.log(javascriptIsFun)
 
 typeof helps to find the data type of the variable
 typeof null is shown as object - is a bug but not corrected
+
+Let ,const and var
+let we can declare a variable and then later assign the value to - reassigning
+mutating the variable (let age=30;
+age=31;)
+
+value of const cant be changed.
+const birthyear=1991;
+birthyear =1990; - will give type error - assignment to const variable
+const is immutable
+also const job ; is not possible - miising initialiser in const declaration - means we have to declare const with value (const must be always initialised)
+var works similar to let except that var is function scope and let is block scope.
+
+Basic operator:
+operator - helps you to combine values
+const currentAge = 2045-1985;
+console.log(currentAge);
