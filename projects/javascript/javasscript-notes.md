@@ -43,3 +43,22 @@ Basic Operator:
 operator - helps you to combine values
 const currentAge = 2045-1985;
 console.log(currentAge);
+
+type of operator
+
+assignment operator =
+let x= 10+5; 10+5 is calculated first and then the value is assigned to x
+x+=10 same as x= x+10; 15+10 = 25
+x*=4 same as x = x*4 ; result is 25\*4 = 100
+x++ same as x=x+1 101
+x-- same as x=x-1 100
+
+comparison operators: for making descisions >, < .>= ,<=
+result is boolean
+console.log(10>20) result is false
+console.log(30>10) result is true
+
+operator precedence:
+mathematical operators are always performed first before comparison operators.
+most operatos are operated left to right
+exponentional , assignment operator is executed right to left
