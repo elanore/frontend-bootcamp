@@ -93,3 +93,11 @@ console.log("i am a " + 30 + "year old programmer");
 here the + triggers a coercion
 
 console.lo('23'- '10'- 3) ; gives 10 - converts string to number(reverse coercion happens here) same for multiplication and division too (takes values as numbers)
+
+truthy and falsy value:
+ONLY 5 falsy values : 0,"", undefined , null and NAN
+when converting these above 5 values it will be false and rest all when converted to boolean will be truth
+console.log(Boolean(0)) - false
+console.log(Boolean(25)) - truth
+
+Equality operator:
