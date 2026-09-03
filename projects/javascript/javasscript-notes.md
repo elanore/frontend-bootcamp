@@ -101,9 +101,23 @@ console.log(Boolean(0)) - false
 console.log(Boolean(25)) - truth
 
 Equality operator:
-=== triple equals compare values strictly (comparison strictly , value and type check) most prefered and used
+=== triple equals compare values strictly (comparison strictly , value and type check) most prefered and used its the strict version
 == compares value not type
 
 const favourite =prompt ("whats your favourite color?");
 console.log(favourite);
 stores the vlaue which user input up on the prompt
+
+if else if - looping
+
+Boolean Logic: booLogic.js
+A.sarah has drivers licence
+B.sarah has good vision
+
+if both A AND B true - true
+else in all three condition it returns false
+
+In OR operator either one or both has to be true then only result is true
+else if both are false result is false
+
+NOT operator acts only one value , it inverts the value.
