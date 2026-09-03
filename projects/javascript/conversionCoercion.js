@@ -8,4 +8,6 @@
   let n = "1" + 1;
   n = n - 1;
   console.log(n); //output is 10 (11-1)
+  const favourite = prompt("whats your favourite color?");
+  console.log(favourite);
 }
