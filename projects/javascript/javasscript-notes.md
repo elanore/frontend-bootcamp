@@ -101,3 +101,9 @@ console.log(Boolean(0)) - false
 console.log(Boolean(25)) - truth
 
 Equality operator:
+=== triple equals compare values strictly (comparison strictly , value and type check) most prefered and used
+== compares value not type
+
+const favourite =prompt ("whats your favourite color?");
+console.log(favourite);
+stores the vlaue which user input up on the prompt
